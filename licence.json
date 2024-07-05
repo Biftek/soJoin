@@ -1,1 +1,10 @@
-false
+{
+    "players": {
+        "BeefTacos": {
+            "cape": "cape/cape_1.png"
+        },
+        "denemes": {
+            "cape": "cape/IsmetRG.png"
+        }
+    }
+}
